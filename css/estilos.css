@@ -1,7 +1,7 @@
 body
 {
-    color: #334;
-    text-align: left;
+    color: #333;
+    text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
@@ -19,6 +19,5 @@ body
 
 #container h1
 {
-    font-size: 20px;
-
+    font-size: 30px;
 }
